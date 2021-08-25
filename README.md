@@ -15,5 +15,4 @@ Ingresa a tu terminal y luego busca el codigo y ejecuta el siguiente comando
 ```
 sudo bash scriptswap.sh
 
-
 ```
