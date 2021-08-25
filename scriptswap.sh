@@ -2,11 +2,6 @@
 
 # scriptswap.sh
 # Script para gestionar el uso de la memoria swap del sistema.
-# Creado por Francisco Javier Izquierdo Hidalgo.
-# Licencia Pública General de GNU v2.
-# Se distribuye SIN NINGUNA GARANTÍA, tampoco la implícita de -
-# - COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO EN PARTICULAR.
-# Más detalles en GNU General Public License.
 
 # Variables
 estado=$(free -h)
