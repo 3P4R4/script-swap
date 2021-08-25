@@ -8,4 +8,11 @@
 
 ### Agradecimientos
 
-Agradecimiento a Francisco Javier Izquierdo Hidalgo.zo
+Agradecimiento a Sergio GB de solo linux donde siempre logro cubrir mis necesidades y dudas y tambien a Francisco Javier Izquierdo Hidalgo por colaborar con la comunidad.
+
+### Ejecución
+Ingresa a tu terminal y luego busca el codigo y ejecuta el siguiente comando
+```
+sudo nano scriptswap.sh
+
+```
