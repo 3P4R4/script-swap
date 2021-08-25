@@ -13,6 +13,7 @@ Agradecimiento a Sergio GB de solo linux donde siempre logro cubrir mis necesida
 ### Ejecución
 Ingresa a tu terminal y luego busca el codigo y ejecuta el siguiente comando
 ```
-sudo nano scriptswap.sh
+sudo bash scriptswap.sh
+
 
 ```
